@@ -1,0 +1,19 @@
+{
+  "name": "conqueror07",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asep7fold/conqueror07https:.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asep7fold/conqueror07https:/issues"
+  },
+  "homepage": "https://github.com/Asep7fold/conqueror07https:#readme"
+}
